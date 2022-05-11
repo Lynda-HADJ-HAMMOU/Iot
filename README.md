@@ -7,4 +7,17 @@ Ce projet a pour but de créer un parapluie connecté qui marche en amant avec u
 - Géolocaliser le parapluie dans le cas d'une perte 
 
 
-#Schéma 
+### Schéma 
+
+### Composants
+
+- Parapluie
+- LED
+- Arduino 
+- Capteur Bluetooth
+- Capteur de préssion 
+- Smartphone 
+- Résistance 
+- Capteur de distance 
+- Cables
+- Batterie  
