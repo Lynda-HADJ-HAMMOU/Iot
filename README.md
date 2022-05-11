@@ -7,7 +7,7 @@ Ce projet a pour but de créer un parapluie connecté qui marche en amant avec u
 - Géolocaliser le parapluie dans le cas d'une perte 
 
 
-### Schéma 
+
 
 ### Composants
 
@@ -24,3 +24,4 @@ Ce projet a pour but de créer un parapluie connecté qui marche en amant avec u
 
 
 ### Simulation TinkerCAD
+https://www.tinkercad.com/things/eqMkm5yQfce-capteur-de-distance-avec-led-/editel?sharecode=8xEbUQ5YJ6NiuIx3pnph2FJyu-WC8RMfV2ymYJPO488 
