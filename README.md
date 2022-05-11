@@ -21,3 +21,6 @@ Ce projet a pour but de créer un parapluie connecté qui marche en amant avec u
 - Capteur de distance 
 - Cables
 - Batterie  
+
+
+### Simulation TinkerCAD
